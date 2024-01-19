@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "oracle-livelabs"
+		},
+		{
+			"path": "chablani"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "kkatta11",
+		"cSpell.words": [
+			"Chablani",
+			"Ravi",
+			"Usecase"
+		]
+	}
+}
